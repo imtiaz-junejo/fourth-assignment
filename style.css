@@ -1,0 +1,94 @@
+
+    body{
+    width: 100%;
+    height: 1000px;
+    background-color: rgb(153, 22, 22);
+    position: relative;
+}
+
+.container{
+    width: 90%;
+    height: 92%;
+    background-color: rgb(220, 219, 216);
+    position: absolute;
+    right: 3%;
+    bottom: 2%;
+}
+.nav {
+    width: 60%;
+    height: 7%;
+    background-color:rgb(38, 39, 25);
+    position: absolute;
+    top: 2%;
+    right: 20%;
+    
+}
+
+.nav li {
+    display: inline-block;
+    padding-top: 2%;
+    padding-left: 15%;
+    font-size: large;
+}
+
+.nav > ul > li > a{
+    color: antiquewhite;
+}
+
+h1{
+    position: absolute;
+    top: 10%;
+    right: 40%;
+}
+p{
+    position: absolute;
+    top: 15%;
+    right: 20%;
+    left: 20%;
+    text-align: justify;
+
+}
+img{
+    width: 61%;
+    height: 30%;
+    position: absolute;
+    top: 30%;
+    right: 20%;
+}
+
+.pics{
+    width:30%;
+    height: 50%;
+    position:absolute;
+}
+
+.one{
+    bottom:3%;
+    left:13%;
+    text-align: justify;
+        display: block;
+        margin: 0 auto;
+}
+.two{
+    bottom:3%;
+    left:35%
+}
+.three{
+    bottom:3%;
+    left:56%;
+}
+.four{
+    top: 65%;
+    left:13%;
+}
+.five{
+    top:65%;
+    left:35%;
+}
+.six{
+    top:65%;
+    left:56%;
+}
+
+
+
